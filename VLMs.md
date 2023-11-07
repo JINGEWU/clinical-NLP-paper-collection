@@ -2,7 +2,9 @@
 
 ## Model
 
+![](https://img.shields.io/badge/LLM-green)
 
+![](https://img.shields.io/badge/VLM-red)
 
 ### ![](https://img.shields.io/badge/MedicalDomain-orange)PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering [[paper]](https://arxiv.org/pdf/2305.10415.pdf) [[repo]](https://xiaoman-zhang.github.io/PMC-VQA/)
 
@@ -33,8 +35,6 @@
 ### ![](https://img.shields.io/badge/MedicalDomain-orange)PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[paper]](https://arxiv.org/pdf/2308.12604.pdf)
 
 ### ![](https://img.shields.io/badge/MedicalDomain-orange)DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task [[paper]](https://arxiv.org/pdf/2304.01097.pdf) [[repo]](https://github.com/xionghonglin/DoctorGLM)
-
-![image-20231106115302884](./img/image-20231106115302884.png)
 
 ### ![](https://img.shields.io/badge/MedicalDomain-orange)XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models [[paper]](https://arxiv.org/pdf/2306.07971.pdf) [[repo]](https://github.com/mbzuai-oryx/XrayGPT)
 
@@ -91,41 +91,41 @@
 
 
 
-### Vision–Language Model for Visual Question Answering in Medical Imagery[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10045796/)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Vision–Language Model for Visual Question Answering in Medical Imagery[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10045796/)
 
 ### Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic [[paper]](https://arxiv.org/pdf/2306.15195.pdf) [[repo]](https://github.com/shikras/shikra)
 
 ### DetGPT: Detect What You Need via Reasoning [[paper]](https://arxiv.org/pdf/2305.14167.pdf) [[web]](https://detgpt.github.io/)
 
-### RoentGen: Vision-Language Foundation Model for Chest X-ray Generation [[paper]](https://arxiv.org/pdf/2211.12737.pdf) 
+### ![](https://img.shields.io/badge/MedicalDomain-orange)RoentGen: Vision-Language Foundation Model for Chest X-ray Generation [[paper]](https://arxiv.org/pdf/2211.12737.pdf) 
 
-### Multimodal Image-Text Matching Improves Retrieval-based Chest X-Ray Report Generation [[paper]](https://arxiv.org/pdf/2303.17579.pdf) [[repo]](https://github.com/rajpurkarlab/X-REM)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Multimodal Image-Text Matching Improves Retrieval-based Chest X-Ray Report Generation [[paper]](https://arxiv.org/pdf/2303.17579.pdf) [[repo]](https://github.com/rajpurkarlab/X-REM)
 
-### Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20204)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20204)
 
-### MEDICAL IMAGE UNDERSTANDING WITH PRETRAINED VISION LANGUAGE MODELS: A COMPREHENSIVE STUDY [[paper]](https://arxiv.org/pdf/2209.15517.pdf) [[repo]](https://github.com/MembrAI/MIU-VL)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)MEDICAL IMAGE UNDERSTANDING WITH PRETRAINED VISION LANGUAGE MODELS: A COMPREHENSIVE STUDY [[paper]](https://arxiv.org/pdf/2209.15517.pdf) [[repo]](https://github.com/MembrAI/MIU-VL)
 
-### Multimodal medical tensor fusion network-based DL framework for abnormality prediction from the radiology CXRs and clinical text reports [[paper]](https://link.springer.com/article/10.1007/s11042-023-14940-x)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Multimodal medical tensor fusion network-based DL framework for abnormality prediction from the radiology CXRs and clinical text reports [[paper]](https://link.springer.com/article/10.1007/s11042-023-14940-x)
 
-### From Chest X-Rays to Radiology Reports: A Multimodal Machine Learning Approach [[paper]](https://ieeexplore.ieee.org/document/8945819)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)From Chest X-Rays to Radiology Reports: A Multimodal Machine Learning Approach [[paper]](https://ieeexplore.ieee.org/document/8945819)
 
-### Medical image captioning via generative pretrained transformers [[paper]](https://www.nature.com/articles/s41598-023-31223-5)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Medical image captioning via generative pretrained transformers [[paper]](https://www.nature.com/articles/s41598-023-31223-5)
 
-### Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images [[paper]](https://arxiv.org/pdf/2310.07027.pdf)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images [[paper]](https://arxiv.org/pdf/2310.07027.pdf)
 
-### Generalized Radiograph Representation Learning via Cross-supervision between Images and Free-text Radiology Reports [[paper]](https://arxiv.org/pdf/2111.03452.pdf)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Generalized Radiograph Representation Learning via Cross-supervision between Images and Free-text Radiology Reports [[paper]](https://arxiv.org/pdf/2111.03452.pdf)
 
-### RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting [[paper]](https://arxiv.org/pdf/2107.02104.pdf) [[repo]](http://www.github.com/farrell236/RATCHET)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting [[paper]](https://arxiv.org/pdf/2107.02104.pdf) [[repo]](http://www.github.com/farrell236/RATCHET)
 
-### Automated Generation of Accurate & Fluent Medical X-ray Reports [[paper]](https://aclanthology.org/2021.emnlp-main.288.pdf) [[repo]](https://github.com/ginobilinie/xray_report_generation)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Automated Generation of Accurate & Fluent Medical X-ray Reports [[paper]](https://aclanthology.org/2021.emnlp-main.288.pdf) [[repo]](https://github.com/ginobilinie/xray_report_generation)
 
-### Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation [[paper]](https://arxiv.org/pdf/2207.01208.pdf)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation [[paper]](https://arxiv.org/pdf/2207.01208.pdf)
 
 ### mPLUG-Owl : Modularization Empowers Large Language Models with Multimodality [[paper]](https://arxiv.org/pdf/2304.14178.pdf) [[repo]](https://github.com/X-PLUG/mPLUG-Owl)
 
-### Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis [[paper]](https://arxiv.org/pdf/2303.13391.pdf)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis [[paper]](https://arxiv.org/pdf/2303.13391.pdf)
 
-### Text-Guided Foundation Model Adaptation for Pathological Image Classification [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_27)
+### ![](https://img.shields.io/badge/MedicalDomain-orange)Text-Guided Foundation Model Adaptation for Pathological Image Classification [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_27)
 
 ## Factual correctness
 
@@ -153,23 +153,17 @@
 
 
 
-
-
-
-
 ## Good survey papers:
 
-A Survey of Large Language Models [[paper]](https://arxiv.org/pdf/2303.18223.pdf)
+### A Survey of Large Language Models [[paper]](https://arxiv.org/pdf/2303.18223.pdf)
 
+### FOUNDATIONAL MODELS IN MEDICAL IMAGING: A COMPREHENSIVE SURVEY AND FUTURE VISION [[paper]]((https://arxiv.org/pdf/2310.18689.pdf))
 
+### Instruction Tuning for Large Language Models: A Survey [[paper]](https://arxiv.org/pdf/2308.10792.pdf)
 
-FOUNDATIONAL MODELS IN MEDICAL IMAGING: A COMPREHENSIVE SURVEY AND FUTURE VISION [[paper]]((https://arxiv.org/pdf/2310.18689.pdf))
+### Pre-trained Language Models in Biomedical Domain: A Systematic Survey [[paper]](https://dl.acm.org/doi/10.1145/3611651)
 
-Instruction Tuning for Large Language Models: A Survey [[paper]](https://arxiv.org/pdf/2308.10792.pdf)
-
-Pre-trained Language Models in Biomedical Domain: A Systematic Survey [[paper]](https://dl.acm.org/doi/10.1145/3611651)
-
-Multimodal Foundation Models: From Specialists to General-Purpose Assistants [[paper]](https://arxiv.org/pdf/2309.10020.pdf) 
+### Multimodal Foundation Models: From Specialists to General-Purpose Assistants [[paper]](https://arxiv.org/pdf/2309.10020.pdf) 
 
 
 
@@ -222,8 +216,6 @@ Multimodal Foundation Models: From Specialists to General-Purpose Assistants [[p
 ### A Token-level Reference-free Hallucination Detection Benchmark for Free-form Text Generation [[paper]](https://arxiv.org/pdf/2104.08704.pdf)
 
 ### Retrieval Augmentation Reduces Hallucination in Conversation [[paper]](https://arxiv.org/pdf/2104.07567.pdf)
-
-
 
 
 
