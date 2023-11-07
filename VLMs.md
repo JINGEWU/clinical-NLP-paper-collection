@@ -180,21 +180,9 @@ Fact-Checking of AI-Generated Reports [[paper]](https://arxiv.org/pdf/2307.14634
 
 - also published as MVCO-DOT: MULTI-VIEW CONTRASTIVE DOMAIN TRANSFER NETWORK FOR MEDICAL REPORT GENERATION [[paper]](https://arxiv.org/pdf/2304.07465.pdf)
 
-
-
-
-
 ### UniXGen: A Unified Vision-Language Model for Multi-View Chest X-ray Generation and Report Generation [[paper]](https://arxiv.org/pdf/2302.12172.pdf)
 
 ### Automated Generation of Accurate & Fluent Medical X-ray Reports [[paper]](https://aclanthology.org/2021.emnlp-main.288.pdf) [[repo]](https://github.com/ginobilinie/xray_report_generation)
-
-
-
-
-
-
-
-
 
 
 
