@@ -4,12 +4,12 @@ Welcome to share!
 
 
 
-[rare disease/phenotyping](./rare diseasephenotyping.md)
+[rare disease/phenotyping](./disease_phenotyping.md)
 
 [KG](./KG.md)
 
-[Radiology report/generative model](./Radiology reportgenerative model.md)
+[Radiology report generation](./radiology_report_generation.md)
 
-[clinical NLP](./clinical NLP.md)
+[clinical NLP](./clinical_nlp.md)
 
 [LLMs/VLMs](./VLMs.md)
